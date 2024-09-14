@@ -30,19 +30,19 @@ To ensure the project runs smoothly, install the following packages listed in th
 # How to Run
 
 To use this project, follow these steps:
-''' 
+``` 
 pip install -r requirements.txt 
-'''
+```
 
 Run the Flask App: Once the dependencies are installed, run the following command to start the Flask web app:
-''' 
+``` 
 python app.py 
-'''
+```
 
 Access the Web App: The Flask app will run on your local server. Open a web browser and go to:
-''' 
+``` 
 http://localhost:5000 
-'''
+```
 
 # Model Explanation
 - The CatBoost Regressor model is trained on historical housing data and can predict the price of a house based on various features.
