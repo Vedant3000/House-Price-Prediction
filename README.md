@@ -20,13 +20,13 @@ Least Deflection: CatBoost’s ability to minimize the difference between actual
 
 ## Requirements
 To ensure the project runs smoothly, install the following packages listed in the requirements.txt file. These include:
-
-- catboost
-- flask
-- pandas
-- numpy
-- scikit-learn
-
+```
+catboost
+flask
+pandas
+numpy
+scikit-learn
+```
 ## How to Run
 
 To use this project, follow these steps:
